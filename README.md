@@ -9,7 +9,7 @@ I am a skilled IT professional with a **passion for technology and problem solvi
 
 ## `NSLog(@"Get in touch"); // 📬`
 [![Discord Badge](https://img.shields.io/badge/Discord-SadShrimpy-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047186351302393967)
-![SpigotMC Badge](https://img.shields.io/badge/SpigotMC-Shiry-E57E16?style=flat&logo=spigotmc&logoColor=ffffff)
+[![SpigotMC Badge](https://img.shields.io/badge/SpigotMC-Shiry-E57E16?style=flat&logo=spigotmc&logoColor=ffffff)](https://www.spigotmc.org/members/shiry.583821/)
 
 ## `DSPLY "Top books I love(d) reading" 📚`
 - **ACOTAR** novel series by _Sarah J. Maas_
@@ -18,4 +18,5 @@ I am a skilled IT professional with a **passion for technology and problem solvi
 - **Illiad** & **Odyssey** attributed to _Homer_
 
 ### `SELECT "If you like what I do"; -- ❤`
-![buymeacoffee](https://img.shields.io/badge/Support-Me_❤-FF0000?style=flat&logo=buymeacoffee&logoColor=ffffff)
+[![buymeacoffee](https://img.shields.io/badge/Support-Me_❤-FF0000?style=flat&logo=buymeacoffee&logoColor=ffffff)](
+https://buymeacoffee.com/alessionicf)
