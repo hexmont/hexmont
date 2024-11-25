@@ -8,7 +8,7 @@ I am a skilled IT professional with a **passion for technology and problem solvi
 - `2024 - now` University: computer engineer...
 
 ## `NSLog(@"Get in touch"); // 📬`
-[![Discord Badge](https://img.shields.io/badge/Discord-SadShrimpy-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1047186351302393967)
+![Discord Badge](https://img.shields.io/badge/Our-Community-%237289DA?style=flat&logo=discord&logoColor=%237289DA&color=%237289DA)
 [![SpigotMC Badge](https://img.shields.io/badge/SpigotMC-Shiry-E57E16?style=flat&logo=spigotmc&logoColor=ffffff)](https://www.spigotmc.org/members/shiry.583821/)
 
 ## `DSPLY "Top books I love(d) reading" 📚`
