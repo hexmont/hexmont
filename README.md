@@ -6,6 +6,7 @@ I am a skilled IT professional with a **passion for technology and problem solvi
 - `2022 - 2023` Web dev of [CristalDomino](https://cristaldomino.com)
 - `2023 - now` Software Developer @ [SAEP Informatica](https://www.saep.it/)
 - `2024 - now` University: computer engineer...
+   `2022 - 2023` Web / App dev of [GruMaster](https://grumaster.ch)
 
 ## `NSLog(@"Get in touch"); // 📬`
 [![Discord Badge](https://img.shields.io/badge/Our-Community-%237289DA?style=flat&logo=discord&logoColor=%237289DA&color=%237289DA)](https://discord.gg/AKEKKSe7)
